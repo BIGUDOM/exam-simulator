@@ -1,0 +1,100 @@
+1. Simplify √50 + √18.|A. 7√2|B. 8√2|C. 9√2|D. 10√2|A
+2. What is the probability of getting a 4 when rolling a fair six-sided die?|A. 1/2|B. 1/3|C. 1/6|D. 1/4|C
+3. Differentiate y = 3x² + 2x + 1 with respect to x.|A. 3x + 2|B. 6x + 2|C. 6x + 1|D. 2x + 3|B
+4. In a circle, what is the angle between a tangent and a radius at the point of contact?|A. 45°|B. 60°|C. 90°|D. 120°|C
+5. If the probability of event A is 0.3 and event B is 0.5, what is the probability of both A and B occurring if they are independent?|A. 0.15|B. 0.8|C. 0.2|D. 0.5|A
+6. Simplify (2√3 + √12) - √27.|A. √3|B. 2√3|C. 3√3|D. 4√3|B
+7. Find the derivative of y = sin(x).|A. cos(x)|B. -cos(x)|C. sin(x)|D. -sin(x)|A
+8. Which theorem states that the angle at the center of a circle is twice the angle at the circumference subtended by the same arc?|A. Tangent Theorem|B. Alternate Segment Theorem|C. Angle at Center Theorem|D. Chord Theorem|C
+9. What is the equation of the tangent to the curve y = x² at x = 2?|A. y = 4x - 4|B. y = 4x + 4|C. y = 2x + 4|D. y = 2x - 4|A
+10. If P(A) = 0.7, what is the probability that A does not occur?|A. 0.3|B. 0.7|C. 1.0|D. 0.5|A
+11. What is the sum of the first 10 terms of the arithmetic progression 2, 5, 8, ...?|A. 140|B. 150|C. 120|D. 110|A
+12. Find the 7th term of the geometric progression 3, 6, 12, ...?|A. 192|B. 384|C. 96|D. 48|A
+13. If the common difference of an arithmetic progression is 4 and the first term is 7, what is the 15th term?|A. 63|B. 67|C. 71|D. 75|B
+14. What is the bearing of point B from point A if B is due east of A?|A. 090°|B. 180°|C. 270°|D. 360°|A
+15. Calculate the distance between two points (3, 4) and (7, 8).|A. 4|B. 5|C. 6|D. 8|B
+16. What is the sum of the infinite geometric series 5 + 2.5 + 1.25 + ...?|A. 10|B. 15|C. 20|D. 5|A
+17. If the first term of an arithmetic progression is 10 and the last term is 100 with 10 terms, what is the common difference?|A. 10|B. 9|C. 11|D. 12|B
+18. What is the bearing of North-East?|A. 045°|B. 135°|C. 225°|D. 315°|A
+19. Find the sum of the first 20 terms of the arithmetic progression 1, 4, 7, ...?|A. 610|B. 620|C. 630|D. 640|A
+20. What is the 5th term of the geometric progression 2, 6, 18, ...?|A. 162|B. 54|C. 486|D. 18|A
+21. If the probability of an event is 0.25, what is the probability that it does not occur?|A. 0.75|B. 0.25|C. 0.5|D. 1.0|A
+22. Simplify √72 + √8.|A. 10√2|B. 8√2|C. 9√2|D. 7√2|A
+23. Differentiate y = x³ + 4x.|A. 3x² + 4|B. 3x + 4|C. x² + 4|D. 4x + 3|A
+24. What is the probability of getting an even number when rolling a fair six-sided die?|A. 1/2|B. 1/3|C. 2/3|D. 1/6|A
+25. In a triangle, what is the sum of the interior angles?|A. 180°|B. 360°|C. 90°|D. 270°|A
+26. If the first term of a geometric progression is 8 and the common ratio is 0.5, what is the 6th term?|A. 0.25|B. 0.5|C. 1|D. 0.125|A
+27. What is the bearing of South-West?|A. 225°|B. 135°|C. 315°|D. 045°|A
+28. Find the distance between (0, 0) and (6, 8).|A. 10|B. 12|C. 8|D. 6|A
+29. What is the sum of the first 15 terms of the arithmetic progression 4, 9, 14, ...?|A. 585|B. 600|C. 615|D. 630|A
+30. What is the 8th term of the geometric progression 5, 10, 20, ...?|A. 640|B. 1280|C. 320|D. 160|A
+31. If the probability of event A is 0.6 and event B is 0.4, what is the probability of both A and B occurring if they are independent?|A. 0.24|B. 1.0|C. 0.2|D. 0.4|A
+32. Simplify (3√2 + √8) - √18.|A. √2|B. 2√2|C. 3√2|D. 4√2|B
+33. Differentiate y = 2x² - 5x + 3.|A. 4x - 5|B. 2x - 5|C. 4x + 3|D. 2x + 3|A
+34. What is the probability of getting a prime number when rolling a fair six-sided die?|A. 1/2|B. 1/3|C. 2/3|D. 1/6|A
+35. In a quadrilateral, what is the sum of the interior angles?|A. 360°|B. 180°|C. 270°|D. 90°|A
+36. If the first term of a geometric progression is 9 and the common ratio is 3, what is the 4th term?|A. 243|B. 81|C. 27|D. 9|A
+37. What is the bearing of South-East?|A. 135°|B. 045°|C. 225°|D. 315°|A
+38. Find the distance between (2, 3) and (5, 7).|A. 5|B. 6|C. 7|D. 8|A
+39. What is the sum of the first 12 terms of the arithmetic progression 3, 7, 11, ...?|A. 312|B. 324|C. 336|D. 348|A
+40. What is the 6th term of the geometric progression 4, 8, 16, ...?|A. 128|B. 64|C. 256|D. 32|A
+41. If the probability of event A is 0.2 and event B is 0.5, what is the probability of both A and B occurring if they are independent?|A. 0.1|B. 0.7|C. 0.3|D. 0.5|A
+42. Simplify √32 + √18.|A. 8√2|B. 7√2|C. 6√2|D. 5√2|A
+43. Differentiate y = 4x³ + x.|A. 12x² + 1|B. 4x² + 1|C. 12x + 1|D. 4x + 1|A
+44. What is the probability of getting a number greater than 4 when rolling a fair six-sided die?|A. 1/3|B. 1/2|C. 2/3|D. 1/6|A
+45. In a pentagon, what is the sum of the interior angles?|A. 540°|B. 360°|C. 720°|D. 180°|A
+46. If the first term of a geometric progression is 2 and the common ratio is 4, what is the 5th term?|A. 512|B. 128|C. 32|D. 8|B
+47. What is the bearing of North-West?|A. 315°|B. 045°|C. 225°|D. 135°|A
+48. Find the distance between (1, 1) and (4, 5).|A. 5|B. 6|C. 7|D. 8|A
+49. What is the sum of the first 8 terms of the arithmetic progression 6, 10, 14, ...?|A. 128|B. 136|C. 144|D. 152|A
+50. What is the 7th term of the geometric progression 1, 3, 9, ...?|A. 729|B. 243|C. 81|D. 27|A
+51. If the probability of event A is 0.8 and event B is 0.2, what is the probability of both A and B occurring if they are independent?|A. 0.16|B. 1.0|C. 0.6|D. 0.2|A
+52. Simplify (4√5 + √20) - √45.|A. √5|B. 2√5|C. 3√5|D. 4√5|B
+53. Differentiate y = 5x² + 3x - 2.|A. 10x + 3|B. 5x + 3|C. 10x - 2|D. 5x - 2|A
+54. What is the probability of getting a 1 or 6 when rolling a fair six-sided die?|A. 1/3|B. 1/2|C. 2/3|D. 1/6|A
+55. In a hexagon, what is the sum of the interior angles?|A. 720°|B. 540°|C. 360°|D. 180°|A
+56. If the first term of a geometric progression is 7 and the common ratio is 2, what is the 6th term?|A. 224|B. 112|C. 56|D. 28|A
+57. What is the bearing of East?|A. 090°|B. 180°|C. 270°|D. 360°|A
+58. Find the distance between (0, 0) and (9, 12).|A. 15|B. 12|C. 9|D. 6|A
+59. What is the sum of the first 6 terms of the arithmetic progression 5, 8, 11, ...?|A. 63|B. 66|C. 69|D. 72|A
+60. What is the 4th term of the geometric progression 10, 20, 40, ...?|A. 80|B. 160|C. 40|D. 20|A
+61. If the probability of event A is 0.5 and event B is 0.5, what is the probability of both A and B occurring if they are independent?|A. 0.25|B. 1.0|C. 0.5|D. 0.75|A
+62. Simplify √98 + √18.|A. 11√2|B. 10√2|C. 9√2|D. 8√2|A
+63. Differentiate y = x⁴ + 2x².|A. 4x³ + 4x|B. 4x³ + 2x|C. 2x³ + 4x|D. 2x³ + 2x|A
+64. What is the probability of getting a number less than 3 when rolling a fair six-sided die?|A. 1/3|B. 1/2|C. 2/3|D. 1/6|A
+65. In a heptagon, what is the sum of the interior angles?|A. 900°|B. 1080°|C. 1260°|D. 1440°|A
+66. If the first term of a geometric progression is 5 and the common ratio is 5, what is the 4th term?|A. 625|B. 125|C. 25|D. 5|A
+67. What is the bearing of West?|A. 270°|B. 180°|C. 090°|D. 360°|A
+68. Find the distance between (3, 7) and (6, 11).|A. 5|B. 6|C. 7|D. 8|A
+69. What is the sum of the first 9 terms of the arithmetic progression 2, 6, 10, ...?|A. 162|B. 168|C. 174|D. 180|A
+70. What is the 5th term of the geometric progression 6, 18, 54, ...?|A. 486|B. 162|C. 54|D. 18|A
+71. If the probability of event A is 0.3 and event B is 0.7, what is the probability of both A and B occurring if they are independent?|A. 0.21|B. 1.0|C. 0.4|D. 0.7|A
+72. Simplify (5√7 + √28) - √63.|A. √7|B. 2√7|C. 3√7|D. 4√7|B
+73. Differentiate y = 7x² + 2x.|A. 14x + 2|B. 7x + 2|C. 14x + 1|D. 7x + 1|A
+74. What is the probability of getting a 2 or 5 when rolling a fair six-sided die?|A. 1/3|B. 1/2|C. 2/3|D. 1/6|A
+75. In an octagon, what is the sum of the interior angles?|A. 1080°|B. 900°|C. 720°|D. 540°|A
+76. If the first term of a geometric progression is 3 and the common ratio is 3, what is the 5th term?|A. 243|B. 81|C. 27|D. 9|A
+77. What is the bearing of South?|A. 180°|B. 090°|C. 270°|D. 360°|A
+78. Find the distance between (5, 5) and (10, 10).|A. 7.07|B. 10|C. 5|D. 12|A
+79. What is the sum of the first 7 terms of the arithmetic progression 3, 8, 13, ...?|A. 161|B. 168|C. 175|D. 182|A
+80. What is the 6th term of the geometric progression 2, 4, 8, ...?|A. 64|B. 32|C. 16|D. 8|A
+81. If the probability of event A is 0.4 and event B is 0.6, what is the probability of both A and B occurring if they are independent?|A. 0.24|B. 1.0|C. 0.6|D. 0.4|A
+82. Simplify √128 + √32.|A. 16√2|B. 15√2|C. 14√2|D. 13√2|A
+83. Differentiate y = 6x³ + 2x.|A. 18x² + 2|B. 6x² + 2|C. 18x + 2|D. 6x + 2|A
+84. What is the probability of getting a 3 when rolling a fair six-sided die?|A. 1/6|B. 1/3|C. 1/2|D. 2/3|A
+85. In a nonagon, what is the sum of the interior angles?|A. 1260°|B. 1440°|C. 1620°|D. 1800°|A
+86. If the first term of a geometric progression is 4 and the common ratio is 2, what is the 7th term?|A. 256|B. 128|C. 64|D. 32|A
+87. What is the bearing of North?|A. 000°|B. 090°|C. 180°|D. 270°|A
+88. Find the distance between (7, 2) and (14, 6).|A. 8.06|B. 7|C. 6|D. 5|A
+89. What is the sum of the first 11 terms of the arithmetic progression 2, 7, 12, ...?|A. 352|B. 363|C. 374|D. 385|A
+90. What is the 9th term of the geometric progression 1, 2, 4, ...?|A. 256|B. 128|C. 512|D. 1024|A
+91. If the probability of event A is 0.9 and event B is 0.1, what is the probability of both A and B occurring if they are independent?|A. 0.09|B. 1.0|C. 0.8|D. 0.1|A
+92. Simplify (2√6 + √24) - √54.|A. √6|B. 2√6|C. 3√6|D. 4√6|B
+93. Differentiate y = 8x² + 3x.|A. 16x + 3|B. 8x + 3|C. 16x + 1|D. 8x + 1|A
+94. What is the probability of getting a 5 or 6 when rolling a fair six-sided die?|A. 1/3|B. 1/2|C. 2/3|D. 1/6|A
+95. In a decagon, what is the sum of the interior angles?|A. 1440°|B. 1260°|C. 1620°|D. 1800°|A
+96. If the first term of a geometric progression is 2 and the common ratio is 5, what is the 5th term?|A. 250|B. 125|C. 25|D. 5|A
+97. What is the bearing of South-East?|A. 135°|B. 045°|C. 225°|D. 315°|A
+98. Find the distance between (8, 3) and (12, 7).|A. 5.66|B. 6|C. 7|D. 8|A
+99. What is the sum of the first 13 terms of the arithmetic progression 1, 5, 9, ...?|A. 377|B. 390|C. 403|D. 416|A
+100. What is the 10th term of the geometric progression 3, 6, 12, ...?|A. 1536|B. 768|C. 384|D. 192|A

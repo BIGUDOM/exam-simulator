@@ -1,0 +1,101 @@
+questions|options*|answer
+1. A ball is dropped from a height of 20 m. How long does it take to reach the ground? (Assume g = 9.8 m/s²)|A. 2.02 s|B. 1.43 s|C. 4.04 s|D. 0.98 s|A
+2. What is the unit of force in the SI system?|A. Newton|B. Joule|C. Watt|D. Pascal|A
+3. Which law states that the acceleration of an object is directly proportional to the net force acting on it and inversely proportional to its mass?|A. Newton's First Law|B. Newton's Second Law|C. Newton's Third Law|D. Law of Conservation of Energy|B
+4. A car travels at a constant speed of 60 km/h for 2 hours. What distance does it cover?|A. 30 km|B. 60 km|C. 120 km|D. 180 km|C
+5. What is the velocity of a 5 kg object that has a momentum of 20 kg·m/s?|A. 2 m/s|B. 4 m/s|C. 5 m/s|D. 10 m/s|B
+6. Which of the following is a scalar quantity?|A. Velocity|B. Force|C. Displacement|D. Temperature|D
+7. What is the work done when a force of 10 N moves an object 5 m in the direction of the force?|A. 2 J|B. 5 J|C. 10 J|D. 50 J|D
+8. The energy possessed by a body due to its motion is called|A. Potential energy|B. Kinetic energy|C. Chemical energy|D. Nuclear energy|B
+9. What is the acceleration of a car that increases its velocity from 0 to 20 m/s in 5 seconds?|A. 2 m/s²|B. 4 m/s²|C. 5 m/s²|D. 10 m/s²|A
+10. Which of the following is NOT a fundamental quantity in physics?|A. Length|B. Mass|C. Time|D. Speed|D
+11. The pressure exerted by a force of 100 N on an area of 2 m² is|A. 50 Pa|B. 100 Pa|C. 200 Pa|D. 20 Pa|A
+12. What is the frequency of a wave with a period of 0.5 seconds?|A. 0.5 Hz|B. 1 Hz|C. 2 Hz|D. 5 Hz|C
+13. Which instrument is used to measure electric current?|A. Voltmeter|B. Ammeter|C. Barometer|D. Thermometer|B
+14. What is the SI unit of energy?|A. Joule|B. Watt|C. Newton|D. Pascal|A
+15. Which of the following is a vector quantity?|A. Speed|B. Distance|C. Velocity|D. Temperature|C
+16. What is the formula for calculating force?|A. mass × acceleration|B. mass × velocity|C. mass × distance|D. mass × time|A
+17. Which law explains why we wear seatbelts?|A. Newton's First Law|B. Newton's Second Law|C. Newton's Third Law|D. Law of Gravitation|A
+18. What is the acceleration due to gravity on Earth?|A. 8.9 m/s²|B. 9.8 m/s²|C. 10.8 m/s²|D. 12.8 m/s²|B
+19. What is the unit of electric charge?|A. Ampere|B. Coulomb|C. Volt|D. Ohm|B
+20. Which of the following is NOT a state of matter?|A. Solid|B. Liquid|C. Gas|D. Energy|D
+21. What is the speed of light in vacuum?|A. 3 × 10⁸ m/s|B. 3 × 10⁶ m/s|C. 3 × 10⁴ m/s|D. 3 × 10² m/s|A
+22. What is the formula for kinetic energy?|A. ½mv²|B. mgh|C. Fd|D. VIt|A
+23. Which instrument is used to measure temperature?|A. Barometer|B. Thermometer|C. Ammeter|D. Voltmeter|B
+24. What is the SI unit of power?|A. Joule|B. Watt|C. Newton|D. Pascal|B
+25. What is the formula for pressure?|A. Force/Area|B. Mass/Volume|C. Distance/Time|D. Energy/Time|A
+26. Which of the following is a fundamental quantity?|A. Length|B. Speed|C. Force|D. Energy|A
+27. What is the unit of frequency?|A. Hertz|B. Joule|C. Watt|D. Newton|A
+28. What is the formula for momentum?|A. mass × velocity|B. mass × acceleration|C. force × distance|D. energy × time|A
+29. Which law states that for every action, there is an equal and opposite reaction?|A. Newton's First Law|B. Newton's Second Law|C. Newton's Third Law|D. Law of Conservation of Energy|C
+30. What is the SI unit of pressure?|A. Pascal|B. Newton|C. Joule|D. Watt|A
+31. What is the value of acceleration due to gravity on the Moon?|A. 1.6 m/s²|B. 9.8 m/s²|C. 3.7 m/s²|D. 24.8 m/s²|A
+32. What is the formula for work?|A. Force × Distance|B. Mass × Acceleration|C. Velocity × Time|D. Power × Time|A
+33. Which instrument is used to measure atmospheric pressure?|A. Barometer|B. Thermometer|C. Ammeter|D. Voltmeter|A
+34. What is the SI unit of electric current?|A. Ampere|B. Volt|C. Ohm|D. Coulomb|A
+35. What is the formula for potential energy?|A. mgh|B. ½mv²|C. Fd|D. VIt|A
+36. Which of the following is NOT a vector quantity?|A. Force|B. Velocity|C. Displacement|D. Energy|D
+37. What is the unit of resistance?|A. Ohm|B. Volt|C. Ampere|D. Watt|A
+38. What is the formula for speed?|A. Distance/Time|B. Force/Area|C. Mass/Volume|D. Energy/Time|A
+39. Which instrument is used to measure voltage?|A. Voltmeter|B. Ammeter|C. Barometer|D. Thermometer|A
+40. What is the SI unit of length?|A. Meter|B. Kilogram|C. Second|D. Ampere|A
+41. What is the formula for density?|A. Mass/Volume|B. Force/Area|C. Distance/Time|D. Energy/Time|A
+42. Which of the following is a derived quantity?|A. Speed|B. Mass|C. Length|D. Time|A
+43. What is the SI unit of time?|A. Second|B. Minute|C. Hour|D. Day|A
+44. What is the formula for acceleration?|A. Change in velocity/Time|B. Distance/Time|C. Force/Area|D. Mass/Volume|A
+45. Which instrument is used to measure mass?|A. Balance|B. Barometer|C. Thermometer|D. Voltmeter|A
+46. What is the SI unit of temperature?|A. Kelvin|B. Celsius|C. Fahrenheit|D. Joule|A
+47. What is the formula for power?|A. Work/Time|B. Force × Distance|C. Mass × Acceleration|D. Velocity × Time|A
+48. Which of the following is NOT a unit of energy?|A. Joule|B. Watt|C. Calorie|D. Electronvolt|B
+49. What is the SI unit of volume?|A. Cubic meter|B. Liter|C. Milliliter|D. Cubic centimeter|A
+50. What is the formula for voltage?|A. Current × Resistance|B. Power × Time|C. Force × Distance|D. Mass × Acceleration|A
+51. Which instrument is used to measure resistance?|A. Ohmmeter|B. Voltmeter|C. Ammeter|D. Barometer|A
+52. What is the SI unit of force?|A. Newton|B. Joule|C. Watt|D. Pascal|A
+53. What is the formula for electric power?|A. Voltage × Current|B. Current × Resistance|C. Force × Distance|D. Mass × Acceleration|A
+54. Which of the following is NOT a fundamental quantity?|A. Length|B. Mass|C. Time|D. Speed|D
+55. What is the SI unit of charge?|A. Coulomb|B. Ampere|C. Volt|D. Ohm|A
+56. What is the formula for pressure?|A. Force/Area|B. Mass/Volume|C. Distance/Time|D. Energy/Time|A
+57. Which instrument is used to measure frequency?|A. Frequency meter|B. Ammeter|C. Voltmeter|D. Barometer|A
+58. What is the SI unit of frequency?|A. Hertz|B. Joule|C. Watt|D. Newton|A
+59. What is the formula for momentum?|A. mass × velocity|B. mass × acceleration|C. force × distance|D. energy × time|A
+60. Which law states that energy cannot be created or destroyed?|A. Law of Conservation of Energy|B. Newton's First Law|C. Newton's Second Law|D. Newton's Third Law|A
+61. What is the SI unit of pressure?|A. Pascal|B. Newton|C. Joule|D. Watt|A
+62. What is the value of acceleration due to gravity on Earth?|A. 9.8 m/s²|B. 8.9 m/s²|C. 10.8 m/s²|D. 12.8 m/s²|A
+63. What is the formula for work?|A. Force × Distance|B. Mass × Acceleration|C. Velocity × Time|D. Power × Time|A
+64. Which instrument is used to measure atmospheric pressure?|A. Barometer|B. Thermometer|C. Ammeter|D. Voltmeter|A
+65. What is the SI unit of electric current?|A. Ampere|B. Volt|C. Ohm|D. Coulomb|A
+66. What is the formula for potential energy?|A. mgh|B. ½mv²|C. Fd|D. VIt|A
+67. Which of the following is NOT a vector quantity?|A. Force|B. Velocity|C. Displacement|D. Energy|D
+68. What is the unit of resistance?|A. Ohm|B. Volt|C. Ampere|D. Watt|A
+69. What is the formula for speed?|A. Distance/Time|B. Force/Area|C. Mass/Volume|D. Energy/Time|A
+70. Which instrument is used to measure voltage?|A. Voltmeter|B. Ammeter|C. Barometer|D. Thermometer|A
+71. What is the SI unit of length?|A. Meter|B. Kilogram|C. Second|D. Ampere|A
+72. What is the formula for density?|A. Mass/Volume|B. Force/Area|C. Distance/Time|D. Energy/Time|A
+73. Which of the following is a derived quantity?|A. Speed|B. Mass|C. Length|D. Time|A
+74. What is the SI unit of time?|A. Second|B. Minute|C. Hour|D. Day|A
+75. What is the formula for acceleration?|A. Change in velocity/Time|B. Distance/Time|C. Force/Area|D. Mass/Volume|A
+76. Which instrument is used to measure mass?|A. Balance|B. Barometer|C. Thermometer|D. Voltmeter|A
+77. What is the SI unit of temperature?|A. Kelvin|B. Celsius|C. Fahrenheit|D. Joule|A
+78. What is the formula for power?|A. Work/Time|B. Force × Distance|C. Mass × Acceleration|D. Velocity × Time|A
+79. Which of the following is NOT a unit of energy?|A. Joule|B. Watt|C. Calorie|D. Electronvolt|B
+80. What is the SI unit of volume?|A. Cubic meter|B. Liter|C. Milliliter|D. Cubic centimeter|A
+81. What is the formula for voltage?|A. Current × Resistance|B. Power × Time|C. Force × Distance|D. Mass × Acceleration|A
+82. Which instrument is used to measure resistance?|A. Ohmmeter|B. Voltmeter|C. Ammeter|D. Barometer|A
+83. What is the SI unit of force?|A. Newton|B. Joule|C. Watt|D. Pascal|A
+84. What is the formula for electric power?|A. Voltage × Current|B. Current × Resistance|C. Force × Distance|D. Mass × Acceleration|A
+85. Which of the following is NOT a fundamental quantity?|A. Length|B. Mass|C. Time|D. Speed|D
+86. What is the SI unit of charge?|A. Coulomb|B. Ampere|C. Volt|D. Ohm|A
+87. What is the formula for pressure?|A. Force/Area|B. Mass/Volume|C. Distance/Time|D. Energy/Time|A
+88. Which instrument is used to measure frequency?|A. Frequency meter|B. Ammeter|C. Voltmeter|D. Barometer|A
+89. What is the SI unit of frequency?|A. Hertz|B. Joule|C. Watt|D. Newton|A
+90. What is the formula for momentum?|A. mass × velocity|B. mass × acceleration|C. force × distance|D. energy × time|A
+91. Which law states that energy cannot be created or destroyed?|A. Law of Conservation of Energy|B. Newton's First Law|C. Newton's Second Law|D. Newton's Third Law|A
+92. What is the SI unit of pressure?|A. Pascal|B. Newton|C. Joule|D. Watt|A
+93. What is the value of acceleration due to gravity on Earth?|A. 9.8 m/s²|B. 8.9 m/s²|C. 10.8 m/s²|D. 12.8 m/s²|A
+94. What is the formula for work?|A. Force × Distance|B. Mass × Acceleration|C. Velocity × Time|D. Power × Time|A
+95. Which instrument is used to measure atmospheric pressure?|A. Barometer|B. Thermometer|C. Ammeter|D. Voltmeter|A
+96. What is the SI unit of electric current?|A. Ampere|B. Volt|C. Ohm|D. Coulomb|A
+97. What is the formula for potential energy?|A. mgh|B. ½mv²|C. Fd|D. VIt|A
+98. Which of the following is NOT a vector quantity?|A. Force|B. Velocity|C. Displacement|D. Energy|D
+99. What is the unit of resistance?|A. Ohm|B. Volt|C. Ampere|D. Watt|A
+100. What is the formula for speed?|A. Distance/Time|B. Force/Area|C. Mass/Volume|D. Energy/Time|A

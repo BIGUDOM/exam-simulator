@@ -1,0 +1,100 @@
+1. What is the basic problem of economics?|A. Inflation|B. Scarcity|C. Unemployment|D. Money|B
+2. Which branch of economics studies individual units?|A. Macroeconomics|B. Microeconomics|C. Monetary Economics|D. Fiscal Economics|B
+3. Who is known as the father of economics?|A. John Keynes|B. Adam Smith|C. Alfred Marshall|D. David Ricardo|B
+4. Which of the following is not a factor of production?|A. Land|B. Labour|C. Money|D. Capital|C
+5. The law of demand states that, other things being equal, demand falls when?|A. Price rises|B. Price falls|C. Income rises|D. Population rises|A
+6. Which curve is downward sloping from left to right?|A. Demand Curve|B. Supply Curve|C. Production Curve|D. Cost Curve|A
+7. What is opportunity cost?|A. Cost of production|B. Next best alternative forgone|C. Price of a commodity|D. Total cost incurred|B
+8. Which of these is an example of a direct tax?|A. VAT|B. Customs Duty|C. Income Tax|D. Excise Duty|C
+9. What does GDP stand for?|A. Gross Domestic Product|B. General Development Plan|C. Government Domestic Program|D. Gross Demand Price|A
+10. Which of the following measures inflation?|A. CPI|B. GDP|C. GNP|D. Balance of Payments|A
+11. Which market has only one seller?|A. Monopoly|B. Perfect Competition|C. Oligopoly|D. Monopolistic Competition|A
+12. Which economist introduced the concept of “invisible hand”?|A. Karl Marx|B. John Keynes|C. Adam Smith|D. Alfred Marshall|C
+13. Which of these is an example of public goods?|A. Shoes|B. Clothes|C. Street light|D. Food|C
+14. What is inflation?|A. Persistent rise in prices|B. Fall in wages|C. Increase in supply|D. Fall in demand|A
+15. The law of supply states that supply increases when?|A. Price falls|B. Price rises|C. Demand falls|D. Costs rise|B
+16. What is the main objective of WTO?|A. Promote free trade|B. Regulate taxes|C. Encourage monopoly|D. Fix prices|A
+17. Which country introduced the concept of five-year economic plans first?|A. India|B. China|C. Soviet Union|D. USA|C
+18. In perfect competition, products are?|A. Differentiated|B. Homogeneous|C. Branded|D. Unique|B
+19. Balance of payments records?|A. Exports and imports|B. Capital only|C. Cash only|D. Assets and liabilities|A
+20. Which is not a feature of money?|A. Durability|B. Portability|C. Unlimited Supply|D. Divisibility|C
+21. Which type of unemployment occurs due to business cycle?|A. Structural|B. Seasonal|C. Cyclical|D. Frictional|C
+22. What is fiscal policy concerned with?|A. Money supply|B. Government revenue and expenditure|C. Exports only|D. Imports only|B
+23. Which of these is an instrument of monetary policy?|A. Tax|B. Open Market Operations|C. Subsidy|D. Government Spending|B
+24. What is the central bank of Nigeria?|A. Zenith Bank|B. Central Bank of Nigeria|C. First Bank|D. World Bank|B
+25. The Phillips curve shows the relationship between?|A. Inflation and Growth|B. Inflation and Unemployment|C. Demand and Supply|D. Money and Prices|B
+26. Which of these is a developing country characteristic?|A. High income|B. High unemployment|C. Advanced technology|D. High savings|B
+27. Which economist is associated with comparative advantage?|A. Adam Smith|B. David Ricardo|C. Karl Marx|D. Keynes|B
+28. National income at factor cost is called?|A. GNP|B. NNP|C. GDP|D. NDP|D
+29. Which of the following is a capital good?|A. Chair at home|B. Tractor on farm|C. Clothes|D. Food|B
+30. The production possibility curve is usually?|A. Straight line|B. Convex to origin|C. Concave to origin|D. Vertical|C
+31. Which tax is regressive in nature?|A. Income Tax|B. Property Tax|C. Sales Tax|D. Wealth Tax|C
+32. What is barter system?|A. Use of money|B. Exchange of goods for goods|C. Exchange of goods for money|D. Saving system|B
+33. The difference between exports and imports is called?|A. Balance of Trade|B. Balance of Payment|C. Fiscal Balance|D. Capital Account|A
+34. Which economist proposed the liquidity preference theory of interest?|A. Ricardo|B. Keynes|C. Marshall|D. Adam Smith|B
+35. Which of these is a merit good?|A. Alcohol|B. Education|C. Cigarette|D. Gambling|B
+36. What is the function of insurance in economics?|A. Risk sharing|B. Increasing prices|C. Collecting taxes|D. Increasing demand|A
+37. What type of market has many buyers and sellers with free entry and exit?|A. Monopoly|B. Oligopoly|C. Perfect Competition|D. Duopoly|C
+38. Who wrote “Das Kapital”?|A. Adam Smith|B. Karl Marx|C. Keynes|D. Marshall|B
+39. Which of these is NOT included in GDP?|A. Goods produced|B. Services rendered|C. Illegal trade|D. Government services|C
+40. Which of these is the largest source of government revenue in Nigeria?|A. Oil revenue|B. VAT|C. Import duty|D. Agriculture|A
+41. Which curve shows possible combinations of two goods?|A. Demand Curve|B. Indifference Curve|C. PPC|D. Supply Curve|C
+42. When total revenue equals total cost, a firm is at?|A. Loss|B. Break-even|C. Profit|D. Shutdown|B
+43. A monopoly firm faces which kind of demand curve?|A. Upward sloping|B. Horizontal|C. Entire market demand|D. Vertical|C
+44. What is the main function of money?|A. Consumption|B. Store of value|C. Source of revenue|D. Production|B
+45. Which of these is an example of structural unemployment?|A. Workers laid off due to technology|B. Holiday job loss|C. Job change gap|D. Recession job loss|A
+46. The invisible hand guides?|A. Government spending|B. Market forces|C. Central Bank|D. Taxes|B
+47. Which organization regulates global trade disputes?|A. IMF|B. WTO|C. World Bank|D. ECOWAS|B
+48. Which of these is a normative statement?|A. Inflation rate is 10%|B. Government should reduce taxes|C. Unemployment is rising|D. GDP grew by 4%|B
+49. An economic system where government controls all resources is?|A. Capitalism|B. Socialism|C. Mixed economy|D. Market economy|B
+50. Which economist developed the theory of population?|A. Karl Marx|B. Thomas Malthus|C. Ricardo|D. Keynes|B
+51. Consumer surplus is the difference between?|A. Price paid and price willing|B. Cost and revenue|C. Income and expenditure|D. Savings and investment|A
+52. Which curve is U-shaped in the short run?|A. Demand curve|B. Supply curve|C. Average cost curve|D. Indifference curve|C
+53. The main aim of IMF is to?|A. Provide trade loans|B. Stabilize exchange rates|C. Control inflation|D. Collect taxes|B
+54. What is monopoly price?|A. Lowest possible price|B. Price fixed by government|C. Price determined by monopolist|D. Equilibrium price|C
+55. Which of these is an example of derived demand?|A. Demand for bread|B. Demand for labour|C. Demand for water|D. Demand for clothes|B
+56. Which country first used paper money?|A. England|B. China|C. USA|D. India|B
+57. What is marginal utility?|A. Extra satisfaction from one more unit|B. Total satisfaction|C. Cost of production|D. Price paid|A
+58. What is deficit financing?|A. Spending less than revenue|B. Spending equal to revenue|C. Spending more than revenue|D. No spending|C
+59. Which sector contributes most to GDP in developing countries?|A. Services|B. Industry|C. Agriculture|D. Banking|C
+60. What is the main feature of a mixed economy?|A. Only private ownership|B. Only public ownership|C. Both public and private ownership|D. No ownership|C
+61. Which of these is an externality?|A. Rent paid|B. Pollution|C. Taxes|D. Wages|B
+62. The law of diminishing returns applies in the?|A. Long run|B. Short run|C. Always|D. Never|B
+63. Which of these is NOT a function of the central bank?|A. Issuing currency|B. Lending to public|C. Controlling money supply|D. Acting as banker to government|B
+64. Which of these is the broadest measure of money supply?|A. M1|B. M2|C. M3|D. M0|C
+65. What is dumping in international trade?|A. Selling goods abroad at very low prices|B. Selling goods at high prices|C. Stockpiling goods|D. Restricting trade|A
+66. The elasticity of demand measures?|A. Responsiveness of demand to price change|B. Responsiveness of supply to demand|C. Responsiveness of price to income|D. Responsiveness of income to tax|A
+67. Which type of goods has negative income elasticity?|A. Luxury goods|B. Inferior goods|C. Normal goods|D. Capital goods|B
+68. Which curve shows consumer preferences?|A. Demand curve|B. Indifference curve|C. Supply curve|D. Cost curve|B
+69. The term “stagflation” refers to?|A. Inflation + unemployment|B. Inflation + growth|C. Deflation + growth|D. Deflation + unemployment|A
+70. Which economist introduced the multiplier concept?|A. Ricardo|B. Adam Smith|C. Keynes|D. Marshall|C
+71. What is the main feature of oligopoly?|A. Many sellers|B. Few sellers|C. One seller|D. Two sellers only|B
+72. What is a budget deficit?|A. Expenditure = Revenue|B. Expenditure < Revenue|C. Expenditure > Revenue|D. Expenditure = 0|C
+73. Which index measures cost of living?|A. GDP|B. CPI|C. BOP|D. GNP|B
+74. When price falls, consumer real income?|A. Falls|B. Rises|C. Constant|D. Zero|B
+75. What is the function of a commercial bank?|A. Print money|B. Accept deposits and give loans|C. Control inflation|D. Fix exchange rates|B
+76. Which market structure has price rigidity?|A. Monopoly|B. Oligopoly|C. Perfect competition|D. Monopolistic competition|B
+77. Which type of inflation is caused by excess demand?|A. Cost-push|B. Demand-pull|C. Hyperinflation|D. Imported|B
+78. What is the main objective of ECOWAS?|A. Political integration|B. Economic integration|C. Cultural promotion|D. Religious unity|B
+79. What is economic rent?|A. Payment to land above opportunity cost|B. Normal profit|C. Wages paid|D. Cost of capital|A
+80. Which of these is an example of capital intensive industry?|A. Farming|B. Banking|C. Car manufacturing|D. Tailoring|C
+81. What is real GDP?|A. GDP at current prices|B. GDP adjusted for inflation|C. GDP excluding exports|D. GDP at market prices|B
+82. Who wrote “General Theory of Employment, Interest and Money”?|A. Keynes|B. Ricardo|C. Smith|D. Marshall|A
+83. What is hyperinflation?|A. Mild inflation|B. Very high and rapid inflation|C. Low inflation|D. No inflation|B
+84. Which sector dominates developed economies?|A. Agriculture|B. Industry|C. Services|D. Mining|C
+85. Which of these is NOT an assumption of perfect competition?|A. Free entry and exit|B. Homogeneous products|C. Price control by sellers|D. Perfect knowledge|C
+86. What is terms of trade?|A. Ratio of imports to exports|B. Ratio of export prices to import prices|C. Ratio of exports to imports|D. Ratio of GDP to GNP|B
+87. What is the unemployment of graduates unable to find jobs?|A. Seasonal|B. Structural|C. Educated unemployment|D. Frictional|C
+88. Which curve shows trade-off between inflation and unemployment?|A. Laffer Curve|B. Phillips Curve|C. Demand Curve|D. IS Curve|B
+89. The gold standard refers to?|A. Currency backed by gold|B. Currency backed by silver|C. Paper money only|D. No backing|A
+90. Which policy reduces inflation?|A. Expansionary fiscal policy|B. Contractionary monetary policy|C. Expansionary monetary policy|D. Expansionary spending|B
+91. What is liquidity?|A. Ability to pay long-term debt|B. Ability to convert assets into cash quickly|C. Ability to earn profits|D. Ability to produce goods|B
+92. What is disguised unemployment?|A. Workers appear employed but contribute little|B. Seasonal jobs|C. Unemployment due to recession|D. Job change gap|A
+93. The term “black market” refers to?|A. Illegal trade|B. Legal trade|C. Government market|D. Organized market|A
+94. Which type of good is bread for most households?|A. Luxury|B. Normal|C. Inferior|D. Capital|B
+95. What is poverty line?|A. Minimum income to meet basic needs|B. Average income of population|C. Highest income|D. National income|A
+96. Which is NOT a function of money?|A. Medium of exchange|B. Unit of account|C. Source of revenue|D. Store of value|C
+97. Which economic system encourages private property?|A. Capitalism|B. Socialism|C. Communism|D. Command economy|A
+98. What is absolute advantage?|A. Ability to produce at lowest cost|B. Ability to produce more with same resources|C. Ability to export only|D. Ability to consume more|B
+99. What is national debt?|A. Loans owed by individuals|B. Loans owed by government|C. Loans owed by banks|D. Loans owed by firms|B
+100. Which curve shows combinations of consumption and income?|A. IS Curve|B. LM Curve|C. Consumption Function|D. Demand Curve|C
