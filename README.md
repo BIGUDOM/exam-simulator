@@ -40,5 +40,5 @@ Choose your Department (Science/Commercial/Art):
 
 2. Run It
    ```bash
-   python exam_simulator.py
+   python exam.py
 
