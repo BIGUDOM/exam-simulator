@@ -35,7 +35,7 @@ Choose your Department (Science/Commercial/Art):
 ## 🚀 How to Run
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/exam-simulator.git
+   git clone https://github.com/BIGUDOM/exam-simulator.git
    cd exam-simulator
 
    python exam_simulator.py
