@@ -42,3 +42,18 @@ Choose your Department (Science/Commercial/Art):
    ```bash
    python exam.py
 
+
+
+
+
+## Author
+
+Udom Blessing is a seasoned Developer with focus on backend engineering.... You can look him up or contact him via Github[url(https://github.com/BIGUDOM)]
+
+
+In order to contribute or to report any bug, kindly open a descriptive issue about the bug or contribution.
+
+Adding an example of the bug or the intended feature or fix, is a good way to create an issue.
+
+## License
+MIT
