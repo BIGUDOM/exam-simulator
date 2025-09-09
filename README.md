@@ -38,5 +38,7 @@ Choose your Department (Science/Commercial/Art):
    git clone https://github.com/BIGUDOM/exam-simulator.git
    cd exam-simulator
 
+2. Run It
+   ```bash
    python exam_simulator.py
 
