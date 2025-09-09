@@ -48,7 +48,7 @@ Choose your Department (Science/Commercial/Art):
 
 ## Author
 
-Udom Blessing is a seasoned Developer with focus on backend engineering.... You can look him up or contact him via Github[url(https://github.com/BIGUDOM)]
+Udom Blessing is a seasoned Developer with focus on backend engineering.... You can look him up or contact him via [Github](https://github.com/BIGUDOM)
 
 
 In order to contribute or to report any bug, kindly open a descriptive issue about the bug or contribution.
