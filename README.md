@@ -28,7 +28,7 @@ colorama>=0.4.6
 ## ⚙️ Setup & Run
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/exam-simulator.git
+   git clone https://github.com/BIGUDOM/exam-simulator.git
    cd exam-simulator
    ```
 
