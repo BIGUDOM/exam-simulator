@@ -1,59 +1,90 @@
 # 📝 Exam Simulator
 
-An interactive **Exam Simulator** built with Python.  
-This project allows students to practice multiple-choice questions across different subjects and departments (Science, Arts, Commercial). It mimics a real CBT (Computer-Based Test) exam experience with features like navigation, scoring, and color-coded feedback.
+A Python-based **Exam Simulator** that allows students to take subject-based exams under timed conditions. Supports multiple departments (Science, Art, Commercial), each with their own subjects and question sets.
 
 ---
 
-## ✨ Features
-- 🎓 Choose your department (Science, Arts, or Commercial)
-- 📚 Select subjects within your chosen department
-- 🎲 Randomly generates **25 questions** per exam session
-- ⏪ Navigate questions with `NEXT` and `BACK`
-- ✅ Instant feedback on correctness
-- 📊 Final score summary with percentage
-- 🎨 Colorful console output using ANSI escape codes
+## 📂 Features
+- Multiple **departments**: Science, Art, Commercial  
+- Each department has **4 subjects** with questions loaded from `.txt` files  
+- **Randomized** 25 questions per subject attempt  
+- Navigation support (`NEXT`, `BACK`, `EXIT`)  
+- **Timer per department** (e.g., Science = 2 hours for 4 subjects)  
+- **Results saved** automatically under the student’s name  
 
 ---
 
-## 📂 Project Structure
+## ⚡ Requirements
+- Python **3.8+**  
+- No external libraries required (all modules are built-in: `random`, `time`, `datetime`, `threading`)  
 
+Optional (for prettier cross-platform colors):  
+```txt
+colorama>=0.4.6
+```
 
-Welcome to the Exam Simulator!
-Read Instructions Carefully
-1. Read each question carefully.
-2. Choose the correct answer from the options provided.
-3. Type 'NEXT' to move to the next question.
-4. Type 'EXIT' to end the exam.
-Good luck!
+---
 
-Choose your Department (Science/Commercial/Art):
-
-
-
-
-## 🚀 How to Run
+## ⚙️ Setup & Run
 1. Clone the repository:
    ```bash
-   git clone https://github.com/BIGUDOM/exam-simulator.git
+   git clone https://github.com/your-username/exam-simulator.git
    cd exam-simulator
+   ```
 
-2. Run It
+2. Ensure Python 3.8+ is installed:
    ```bash
-   python exam.py
+   python --version
+   ```
 
+3. Run the exam simulator:
+   ```bash
+   python exam_simulator.py
+   ```
 
 ---
 
+## 📁 Project Structure
+```
+exam-simulator/
+│── exam_simulator.py      # Main program
+│── requirements.txt       # Dependencies (optional)
+│── README.md              # Documentation
+│── questions/
+│   ├── chemistry_questions.txt
+│   ├── physics.txt
+│   ├── mathematics.txt
+│   ├── biology.txt
+│   ├── crs.txt
+│   ├── government.txt
+│   ├── literature.txt
+│   ├── english.txt
+│   ├── account.txt
+│   ├── economics.txt
+│   └── commerce.txt
+│── results/
+│   └── <username>_results.txt
+```
 
-## Author
+---
 
-Udom Blessing is a seasoned Developer with focus on backend engineering.... You can look him up or contact him via [Github](https://github.com/BIGUDOM) or [Instagram](https://www.instagram.com/udomblessing481?igsh=dnUxNjE2dThrZGk3&utm_source=qr)
+## 📊 Example Result
+After finishing an exam, results are saved in the `results/` folder under the student’s name:  
 
+```
+RESULT SUMMARY for JohnDoe
+Date: 2025-09-08 15:40:22
+Department: SCIENCE
 
-In order to contribute or to report any bug, kindly open a descriptive issue about the bug or contribution.
+Chemistry: 18/25 (72.00%)
+Physics: 20/25 (80.00%)
+Biology: 15/25 (60.00%)
+Mathematics: 21/25 (84.00%)
 
-Adding an example of the bug or the intended feature or fix, is a good way to create an issue.
+TOTAL SCORE: 74/100 (74.00%)
+```
 
-## License
-MIT
+---
+
+## 👨‍💻 Author
+Developed by **Udom Blessing**
