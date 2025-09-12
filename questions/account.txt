@@ -1,0 +1,100 @@
+1. What is the basic accounting equation?|A. Assets = Liabilities + Equity|B. Assets = Revenue - Expenses|C. Liabilities = Assets + Equity|D. Assets = Cash + Liabilities|A
+2. Which financial statement shows a company’s financial position at a point in time?|A. Income Statement|B. Balance Sheet|C. Cash Flow Statement|D. Statement of Retained Earnings|B
+3. Which of the following is a current asset?|A. Accounts Payable|B. Accounts Receivable|C. Bonds Payable|D. Mortgage Loan|B
+4. What does GAAP stand for in accounting?|A. Generally Accepted Auditing Procedures|B. General Accounting and Audit Principles|C. Generally Accepted Accounting Principles|D. Government Audited Accounting Policies|C
+5. Which account normally has a credit balance?|A. Cash|B. Accounts Receivable|C. Accounts Payable|D. Equipment|C
+6. Depreciation is recorded on which type of account?|A. Assets|B. Liabilities|C. Expenses|D. Revenue|C
+7. Which of the following is NOT a component of owner’s equity?|A. Retained Earnings|B. Common Stock|C. Dividends|D. Accounts Payable|D
+8. What is the primary purpose of an income statement?|A. To show financial position|B. To measure profitability|C. To list assets and liabilities|D. To calculate taxes|B
+9. Which accounting principle requires businesses to record expenses when incurred, not when paid?|A. Conservatism|B. Matching Principle|C. Materiality|D. Consistency|B
+10. Which of the following is an intangible asset?|A. Equipment|B. Inventory|C. Goodwill|D. Building|C
+11. What type of account is “Unearned Revenue”?|A. Asset|B. Liability|C. Expense|D. Equity|B
+12. Which of these accounts increases with a debit?|A. Accounts Payable|B. Common Stock|C. Cash|D. Revenue|C
+13. What is the normal balance of an expense account?|A. Credit|B. Debit|C. Zero|D. Varies|B
+14. Which principle requires companies to record revenue when earned, not when received?|A. Matching Principle|B. Revenue Recognition|C. Conservatism|D. Full Disclosure|B
+15. Which of the following is a liability?|A. Prepaid Rent|B. Accounts Payable|C. Inventory|D. Cash|B
+16. Which financial statement reports revenues and expenses?|A. Balance Sheet|B. Cash Flow Statement|C. Income Statement|D. Statement of Equity|C
+17. What is the purpose of a trial balance?|A. To detect fraud|B. To prove debits equal credits|C. To calculate net income|D. To prepare cash flows|B
+18. Which method of depreciation results in the highest expense in the first year?|A. Straight-line|B. Units of Production|C. Double Declining Balance|D. Sum-of-Years Digits|C
+19. Which of the following is NOT a current liability?|A. Accounts Payable|B. Notes Payable due in 30 days|C. Bonds Payable (10 years)|D. Salaries Payable|C
+20. What is the term for spreading the cost of an intangible asset over time?|A. Depreciation|B. Amortization|C. Accrual|D. Deferral|B
+21. The left side of a T-account always represents?|A. Debit|B. Credit|C. Asset|D. Liability|A
+22. Which of the following is a real account?|A. Salary Expense|B. Rent Expense|C. Equipment|D. Service Revenue|C
+23. Which type of accounting focuses on providing information to external users?|A. Managerial Accounting|B. Financial Accounting|C. Tax Accounting|D. Cost Accounting|B
+24. What is petty cash used for?|A. Paying large bills|B. Recording sales|C. Small, incidental expenses|D. Recording revenue|C
+25. Which financial statement shows cash inflows and outflows?|A. Income Statement|B. Balance Sheet|C. Cash Flow Statement|D. Statement of Equity|C
+26. Which account is closed at the end of the accounting period?|A. Cash|B. Accounts Payable|C. Salaries Expense|D. Equipment|C
+27. Which inventory method assumes the earliest goods purchased are sold first?|A. LIFO|B. FIFO|C. Weighted Average|D. Specific Identification|B
+28. Which account is considered a contra-asset?|A. Accounts Receivable|B. Allowance for Doubtful Accounts|C. Cash|D. Inventory|B
+29. What type of account is “Retained Earnings”?|A. Asset|B. Liability|C. Equity|D. Revenue|C
+30. Which document provides evidence of a business transaction?|A. Journal Entry|B. Source Document|C. Ledger|D. Trial Balance|B
+31. Which of these is NOT part of the accounting cycle?|A. Posting to ledger|B. Preparing trial balance|C. Issuing stock|D. Adjusting entries|C
+32. What type of account is “Prepaid Rent”?|A. Asset|B. Liability|C. Expense|D. Revenue|A
+33. Which organization issues International Financial Reporting Standards (IFRS)?|A. SEC|B. IASB|C. FASB|D. PCAOB|B
+34. What is the term for money owed to suppliers?|A. Accounts Receivable|B. Accounts Payable|C. Notes Receivable|D. Unearned Revenue|B
+35. Which financial statement summarizes a company’s performance over time?|A. Balance Sheet|B. Income Statement|C. Cash Flow Statement|D. Statement of Equity|B
+36. Which type of account is “Accumulated Depreciation”?|A. Asset|B. Contra-Asset|C. Liability|D. Equity|B
+37. Which basis of accounting records revenues when cash is received?|A. Accrual Basis|B. Cash Basis|C. Matching Basis|D. Full Disclosure|B
+38. What is the main purpose of auditing?|A. To prepare taxes|B. To verify accuracy of financial statements|C. To record journal entries|D. To calculate expenses|B
+39. Which account represents money invested by owners?|A. Retained Earnings|B. Common Stock|C. Revenue|D. Dividends|B
+40. Which principle requires that financial information be reported consistently over time?|A. Materiality|B. Consistency|C. Matching|D. Conservatism|B
+41. What does the term “liquidity” mean in accounting?|A. Ability to pay long-term debts|B. Ability to convert assets into cash quickly|C. Company’s profitability|D. Company’s solvency|B
+42. Which of these is NOT considered a fixed asset?|A. Building|B. Land|C. Inventory|D. Equipment|C
+43. Which account represents income earned but not yet received?|A. Unearned Revenue|B. Accrued Revenue|C. Accounts Payable|D. Prepaid Expense|B
+44. Which of the following is a temporary account?|A. Salaries Expense|B. Accounts Receivable|C. Notes Payable|D. Cash|A
+45. The principle requiring disclosure of all important information is called?|A. Full Disclosure|B. Conservatism|C. Matching|D. Materiality|A
+46. Which of the following is NOT an example of an expense?|A. Salaries Expense|B. Utilities Expense|C. Depreciation Expense|D. Accounts Receivable|D
+47. Which ratio measures a company’s ability to pay current liabilities?|A. Current Ratio|B. Debt Ratio|C. Return on Assets|D. Profit Margin|A
+48. Which inventory method results in the highest net income during inflation?|A. FIFO|B. LIFO|C. Weighted Average|D. Specific Identification|A
+49. What is the purpose of adjusting entries?|A. To close accounts|B. To update accounts at period end|C. To detect fraud|D. To prepare budgets|B
+50. Which account is increased when stock is issued?|A. Retained Earnings|B. Cash|C. Dividends|D. Salaries Expense|B
+51. What is goodwill classified as?|A. Tangible Asset|B. Intangible Asset|C. Liability|D. Equity|B
+52. Which of the following is NOT a cash equivalent?|A. Treasury Bills|B. Accounts Receivable|C. Commercial Paper|D. Money Market Funds|B
+53. Which account is reduced when dividends are paid?|A. Retained Earnings|B. Common Stock|C. Revenue|D. Cash Flow|A
+54. Which type of ratio measures profitability?|A. Liquidity Ratios|B. Profitability Ratios|C. Solvency Ratios|D. Efficiency Ratios|B
+55. What is the term for recording revenues in advance?|A. Prepaid Expense|B. Unearned Revenue|C. Accrued Revenue|D. Deferred Expense|B
+56. Which inventory method assigns most recent costs to cost of goods sold?|A. FIFO|B. LIFO|C. Weighted Average|D. Specific Identification|B
+57. Which principle requires accountants to use caution in financial reporting?|A. Conservatism|B. Consistency|C. Matching|D. Full Disclosure|A
+58. Which account increases when a company earns revenue on credit?|A. Cash|B. Accounts Payable|C. Accounts Receivable|D. Retained Earnings|C
+59. Which is NOT a financial statement?|A. Balance Sheet|B. Income Statement|C. Statement of Cash Flows|D. Bank Reconciliation|D
+60. Which of the following is a non-current liability?|A. Salaries Payable|B. Notes Payable (2 years)|C. Accounts Payable|D. Unearned Revenue|B
+61. Which account records the cost of expired insurance?|A. Prepaid Insurance|B. Insurance Expense|C. Cash|D. Retained Earnings|B
+62. Which type of account is “Sales Returns and Allowances”?|A. Expense|B. Contra-Revenue|C. Liability|D. Equity|B
+63. Which financial statement shows changes in equity over a period?|A. Income Statement|B. Statement of Retained Earnings|C. Balance Sheet|D. Cash Flow Statement|B
+64. What is the term for systematic allocation of the cost of an asset?|A. Depletion|B. Depreciation|C. Amortization|D. Write-off|B
+65. Which inventory method gives a weighted average cost per unit?|A. FIFO|B. LIFO|C. Weighted Average|D. Specific Identification|C
+66. Which organization sets U.S. accounting standards?|A. IASB|B. PCAOB|C. FASB|D. SEC|C
+67. Which type of account is “Mortgage Payable”?|A. Asset|B. Liability|C. Expense|D. Equity|B
+68. What is the main purpose of internal control?|A. To prepare taxes|B. To safeguard assets and ensure accuracy|C. To create profits|D. To reduce expenses|B
+69. Which account records reductions to accounts receivable?|A. Allowance for Doubtful Accounts|B. Accounts Payable|C. Notes Receivable|D. Prepaid Rent|A
+70. Which method is commonly used for bad debt estimation?|A. FIFO|B. Percentage of Sales|C. LIFO|D. Straight-line|B
+71. Which ratio measures debt relative to assets?|A. Debt Ratio|B. Current Ratio|C. Profit Margin|D. Quick Ratio|A
+72. Which account reflects ownership withdrawals in a sole proprietorship?|A. Dividends|B. Owner’s Drawings|C. Retained Earnings|D. Salaries Expense|B
+73. Which of the following is NOT a cash inflow from financing activities?|A. Issuing stock|B. Borrowing money|C. Paying dividends|D. Issuing bonds|C
+74. Which account type is closed to Income Summary?|A. Revenue and Expenses|B. Assets|C. Liabilities|D. Equity|A
+75. What is the purpose of bank reconciliation?|A. To check inventory|B. To match company and bank records|C. To close books|D. To prepare taxes|B
+76. Which inventory method is banned under IFRS?|A. FIFO|B. LIFO|C. Weighted Average|D. Specific Identification|B
+77. Which type of account is “Interest Payable”?|A. Asset|B. Liability|C. Revenue|D. Expense|B
+78. Which account would you debit when paying rent?|A. Rent Expense|B. Accounts Payable|C. Cash|D. Equipment|A
+79. Which financial statement shows revenues minus expenses?|A. Income Statement|B. Balance Sheet|C. Cash Flow Statement|D. Equity Statement|A
+80. Which method allocates overhead based on activities?|A. Process Costing|B. Activity-Based Costing|C. Job Order Costing|D. Standard Costing|B
+81. Which account decreases when goods are sold?|A. Cost of Goods Sold|B. Inventory|C. Sales Revenue|D. Accounts Payable|B
+82. Which principle requires recording assets at purchase price?|A. Matching|B. Cost Principle|C. Conservatism|D. Materiality|B
+83. Which is an example of a contingent liability?|A. Notes Payable|B. Lawsuit Pending|C. Bonds Payable|D. Accounts Payable|B
+84. What is the main purpose of managerial accounting?|A. Provide info to external users|B. Provide info to internal management|C. Prepare taxes|D. Audit financials|B
+85. Which ratio measures profitability relative to shareholders’ equity?|A. Return on Assets|B. Return on Equity|C. Debt Ratio|D. Current Ratio|B
+86. Which account represents money invested by stockholders?|A. Common Stock|B. Dividends|C. Retained Earnings|D. Revenue|A
+87. What type of account is “Discount on Bonds Payable”?|A. Asset|B. Contra-Liability|C. Liability|D. Equity|B
+88. Which document records all business transactions in chronological order?|A. General Ledger|B. Journal|C. Trial Balance|D. Balance Sheet|B
+89. Which account reflects the use of natural resources?|A. Depreciation Expense|B. Depletion Expense|C. Amortization Expense|D. Salaries Expense|B
+90. Which basis of accounting is required by GAAP?|A. Cash Basis|B. Accrual Basis|C. Hybrid Basis|D. Modified Cash Basis|B
+91. Which is NOT a component of internal control?|A. Risk Assessment|B. Monitoring|C. Financial Leverage|D. Control Activities|C
+92. Which account records owner’s investment in a partnership?|A. Owner’s Capital|B. Owner’s Drawings|C. Common Stock|D. Retained Earnings|A
+93. Which type of analysis compares financial data over time?|A. Vertical Analysis|B. Horizontal Analysis|C. Ratio Analysis|D. Break-even Analysis|B
+94. Which is NOT an element of financial statements?|A. Assets|B. Liabilities|C. Profit|D. Equity|C
+95. Which document summarizes all accounts and balances?|A. Journal|B. General Ledger|C. Trial Balance|D. Balance Sheet|C
+96. Which account is used to record estimated bad debts?|A. Bad Debt Expense|B. Allowance for Doubtful Accounts|C. Accounts Receivable|D. Unearned Revenue|B
+97. Which type of costing is used in mass production?|A. Job Order Costing|B. Process Costing|C. Activity-Based Costing|D. Standard Costing|B
+98. Which account reflects sales made on credit?|A. Cash|B. Accounts Receivable|C. Accounts Payable|D. Notes Payable|B
+99. Which financial ratio measures efficiency of asset usage?|A. Asset Turnover Ratio|B. Debt Ratio|C. Current Ratio|D. Quick Ratio|A
+100. Which principle ensures expenses are matched with revenues?|A. Matching Principle|B. Consistency Principle|C. Materiality Principle|D. Cost Principle|A

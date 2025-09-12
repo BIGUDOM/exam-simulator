@@ -1,59 +1,92 @@
-# 📝 Exam Simulator
+📘 Exam Simulator
 
-A Python-based **Exam Simulator** that allows students to take subject-based exams under timed conditions. Supports multiple departments (Science, Art, Commercial), each with their own subjects and question sets.
+An interactive Python-based exam system that allows students to take exams by department, get timed tests, save results, and check them later.
 
----
+✨ Features
 
-## 📂 Features
-- Multiple **departments**: Science, Art, Commercial  
-- Each department has **4 subjects** with questions loaded from `.txt` files  
-- **Randomized** 25 questions per subject attempt  
-- Navigation support (`NEXT`, `BACK`, `EXIT`)  
-- **Timer per department** (e.g., Science = 2 hours for 4 subjects)  
-- **Results saved** automatically under the student’s name  
+🎓 Department-based exams (Science, Art, Commercial)
 
----
+⏳ Countdown timer visible during the exam
 
-## ⚡ Requirements
-- Python **3.8+**  
-- No external libraries required (all modules are built-in: `random`, `time`, `datetime`, `threading`)  
+🎲 Shuffled questions & options each time
 
-Optional (for prettier cross-platform colors):  
-```txt
-colorama>=0.4.6
-```
+✅ Correct/Incorrect feedback after each question
 
----
+📁 Results saved automatically in structured folders:
 
-## ⚙️ Setup & Run
-1. Clone the repository:
-   ```bash
+results/
+    ├── science/
+    │     └── John/
+    │          └── exam_results_John.txt
+    ├── art/
+    └── commercial/
+
+
+📜 Check results later through the menu
+
+📌 Supports multiple attempts (results are appended in the same file)
+
+🛠️ Requirements
+
+Python 3.8+
+
+No external libraries required (uses only built-in modules).
+
+🚀 How to Run
+
+1. Clone or download the project folder.
+```bash
    git clone https://github.com/BIGUDOM/exam-simulator.git
-   cd exam-simulator
-   ```
-
-2. Ensure Python 3.8+ is installed:
-   ```bash
-   python --version
-   ```
-
-3. Run the exam simulator:
-   ```bash
-   python exam_simulator.py
-   ```
-
----
-
-## 📁 Project Structure
+   cd exam-simulator 
 ```
-exam-simulator/
-│── exam_simulator.py      # Main program
-│── requirements.txt       # Dependencies (optional)
-│── README.md              # Documentation
-│── questions/
+
+2. Place your question files in the questions/ directory.
+
+3. Update the file paths inside exam.py if needed.
+
+4. Run the program:
+``` bash
+   python exam.py
+ ```
+
+
+📖 Usage
+
+When you start the program, you’ll see a menu:
+
+🎓 Welcome to the Exam Simulator!
+1. Take Exam
+2. Check Result
+3. Exit
+
+🔹 Taking an Exam
+
+Enter your name and select a department (Science/Art/Commercial).
+
+Answer each question by typing A/B/C/D/E.
+
+Commands during the exam:
+
+NEXT → skip to the next question
+
+BACK → go to the previous question
+
+EXIT → end the exam early
+
+🔹 Checking Results
+
+Select 2 from the menu.
+
+Enter your department and name to view saved results.
+
+📂 Project Structure
+exam-project/
+│
+├── exam.py              # Main program
+├── questions/           # Question files
 │   ├── chemistry_questions.txt
 │   ├── physics.txt
-│   ├── mathematics.txt
+│   ├── maths.txt
 │   ├── biology.txt
 │   ├── crs.txt
 │   ├── government.txt
@@ -62,29 +95,47 @@ exam-simulator/
 │   ├── account.txt
 │   ├── economics.txt
 │   └── commerce.txt
-│── results/
-│   └── <username>_results.txt
-```
+└── results/             # Results saved here after running
 
----
+📝 Sample Question File
 
-## 📊 Example Result
-After finishing an exam, results are saved in the `results/` folder under the student’s name:  
+Below is an example chemistry_questions.txt you can use for testing:
 
-```
-RESULT SUMMARY for JohnDoe
-Date: 2025-09-08 15:40:22
-Department: SCIENCE
+questions|options*|answer
+What is H2O?|A. Hydrogen|B. Oxygen|C. Water|D. Salt|C
+What is the chemical symbol for Oxygen?|A. O2|B. O|C. Ox|D. Oy|B
+Which gas do plants absorb during photosynthesis?|A. Carbon Dioxide|B. Oxygen|C. Nitrogen|D. Hydrogen|A
+What is the atomic number of Carbon?|A. 6|B. 8|C. 12|D. 4|A
+Which of these is a noble gas?|A. Helium|B. Nitrogen|C. Hydrogen|D. Oxygen|A
 
-Chemistry: 18/25 (72.00%)
-Physics: 20/25 (80.00%)
-Biology: 15/25 (60.00%)
-Mathematics: 21/25 (84.00%)
 
-TOTAL SCORE: 74/100 (74.00%)
-```
+📌 Explanation of format:
 
----
+First line must always be:
 
-## 👨‍💻 Author
-Developed by **Udom Blessing**
+questions|options*|answer
+
+
+Each question is in the format:
+
+Question?|Option1|Option2|Option3|Option4|CorrectOptionLetter
+
+
+Options must be labeled A, B, C, D, E in order.
+
+📅 Example Result File
+============================================================
+📅 Date: 2025-09-11 14:23:45
+👤 Student: John
+
+Chemistry      : 20/25 (80.00%)
+Physics        : 18/25 (72.00%)
+Biology        : 21/25 (84.00%)
+Mathematics    : 22/25 (88.00%)
+
+TOTAL SCORE: 81/100 (81.00%)
+============================================================
+
+👨‍💻 Author
+
+Built with ❤️ by Udom Blessing.

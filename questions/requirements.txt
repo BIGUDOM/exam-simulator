@@ -1,0 +1,5 @@
+# Requirements for Exam Simulator
+# Python 3.8+ is required
+
+# Optional library for cross-platform colored text output
+colorama>=0.4.6

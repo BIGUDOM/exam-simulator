@@ -1,0 +1,102 @@
+questions|options*|answer
+1. 200 cm3 of air was passed over heated copper in a syringe several times to produce copper(II) oxide. When cooled, the final volume of air recorded was 158 cm3. Estimate the percentage of oxygen in the air.|A. 31%|B. 27%|C. 21%|D. 19%|C
+2. 30cm3 of oxygen at 10 atmosphere pressures is placed in a 20dm3 container. Calculate the new pressure if temperature is kept constant.|A. 6.7 atm|B. 15.0 atm|C. 60.0 atm|D. 66.0 atm|B
+3. Bond dissociation energy of 500 KJ mol-1 may be assigned to|A. ionic bonding|B. covalent bonding|C. hydrogen bonding|D. metallic bonding|E. van-der-waals bonding.|A
+4. A mixture of iron and sulphur can be separated by dissolving the mixture in|A. steam|B. dilute hydrochloric acid|C. dilute sodium hydroxide|D. benzene|B
+5. A mixture of sand, ammonium chloride and sodium chloride is best separated by|A. sublimation followed by addition of water and filtration|B. sublimation followed by addition of water and evaporation|C. addition of water followed by filtration and sublimation|D. addition of water followed by crystallization and sublimation|A
+6. A pure solid usually melts|A. over a wide range of temperature|B. over a narrow range of temperature|C. at a lower temperature than the impure one|D. at the same temperature as the impure one|B
+7. A small quantity of solid ammonium chloride was heated gently in a test tube; the solid gradually disappeared to produce a mixture of two gases. Later a white cloudy deposit was observed on the cooler part of the test tube. The ammonium chloride is said to have undergone|A. distillation|B. sublimation|C. precipitation|D. evaporation|B
+8. Which of the following is a chemical change?|A. Melting of ice|B. Rusting of iron|C. Dissolving sugar in water|D. Breaking glass|B
+9. The atomic number of an element is equal to the number of|A. neutrons|B. electrons|C. protons|D. nucleons|C
+10. The most abundant gas in the atmosphere is|A. Oxygen|B. Nitrogen|C. Carbon dioxide|D. Argon|B
+11. Which of the following is a noble gas?|A. Oxygen|B. Nitrogen|C. Helium|D. Hydrogen|C
+12. The process by which a liquid changes to a gas is called|A. Condensation|B. Evaporation|C. Sublimation|D. Freezing|B
+13. The pH of a neutral solution is|A. 0|B. 7|C. 14|D. 1|B
+14. Which of the following is a non-metal?|A. Sodium|B. Magnesium|C. Sulphur|D. Iron|C
+15. The chemical formula for water is|A. H2O|B. CO2|C. NaCl|D. CH4|A
+16. Which of the following is an alkali?|A. HCl|B. NaOH|C. H2SO4|D. CH3COOH|B
+17. The process of separating a solid from a liquid by passing the mixture through a filter is called|A. Filtration|B. Distillation|C. Sublimation|D. Crystallization|A
+18. Which of the following is a physical property?|A. Reactivity|B. Melting point|C. Combustibility|D. Corrosiveness|B
+19. The simplest particle of an element that can take part in a chemical reaction is|A. Atom|B. Molecule|C. Ion|D. Compound|A
+20. The number of electrons in the outermost shell of sodium is|A. 1|B. 2|C. 7|D. 8|A
+21. Which of the following is a compound?|A. Oxygen|B. Water|C. Iron|D. Nitrogen|B
+22. The chemical symbol for potassium is|A. P|B. Po|C. K|D. Pt|C
+23. Which of the following is used to test for the presence of starch?|A. Benedict’s solution|B. Iodine solution|C. Fehling’s solution|D. Limewater|B
+24. The process by which green plants make their food is called|A. Respiration|B. Photosynthesis|C. Transpiration|D. Digestion|B
+25. Which of the following is a reducing agent?|A. Oxygen|B. Hydrogen|C. Chlorine|D. Nitrogen|B
+26. Which of the following is not a mixture?|A. Air|B. Water|C. Brass|D. Soil|B
+27. The main constituent of natural gas is|A. Ethane|B. Propane|C. Methane|D. Butane|C
+28. The process of converting a solid directly to a gas is|A. Condensation|B. Sublimation|C. Melting|D. Freezing|B
+29. Which of the following metals is the most reactive?|A. Gold|B. Iron|C. Sodium|D. Copper|C
+30. The chemical formula for common salt is|A. NaCl|B. KCl|C. CaCl2|D. MgCl2|A
+31. Which of the following is a greenhouse gas?|A. Oxygen|B. Nitrogen|C. Carbon dioxide|D. Argon|C
+32. The process by which water vapour turns into liquid is|A. Evaporation|B. Condensation|C. Sublimation|D. Melting|B
+33. Which of the following is a transition metal?|A. Sodium|B. Iron|C. Calcium|D. Potassium|B
+34. The chemical used to test for carbon dioxide is|A. Limewater|B. Iodine|C. Benedict’s solution|D. Fehling’s solution|A
+35. The process of removing impurities from iron to produce steel is called|A. Smelting|B. Alloying|C. Refining|D. Tempering|A
+36. Which of the following is an acid?|A. NaOH|B. HCl|C. KOH|D. Ca(OH)2|B
+37. The main source of energy for photosynthesis is|A. Water|B. Sunlight|C. Soil|D. Air|B
+38. Which of the following is a halogen?|A. Oxygen|B. Chlorine|C. Nitrogen|D. Argon|B
+39. The process by which plants lose water through their leaves is called|A. Transpiration|B. Respiration|C. Photosynthesis|D. Digestion|A
+40. Which of the following is a non-renewable energy source?|A. Solar|B. Wind|C. Coal|D. Hydro|C
+41. The chemical formula for sulphuric acid is|A. H2SO4|B. HCl|C. HNO3|D. H2CO3|A
+42. Which of the following is a noble gas?|A. Neon|B. Oxygen|C. Nitrogen|D. Hydrogen|A
+43. The process of separating crude oil into its components is called|A. Filtration|B. Fractional distillation|C. Crystallization|D. Sublimation|B
+44. Which of the following is an example of a physical change?|A. Burning wood|B. Rusting iron|C. Melting ice|D. Digestion|C
+45. The main gas responsible for acid rain is|A. Carbon dioxide|B. Sulphur dioxide|C. Nitrogen|D. Oxygen|B
+46. Which of the following is a property of metals?|A. Brittle|B. Dull|C. Malleable|D. Non-conductive|C
+47. The process by which an atom loses electrons is called|A. Oxidation|B. Reduction|C. Neutralization|D. Precipitation|A
+48. The chemical formula for ammonia is|A. NH3|B. NO2|C. N2O|D. HNO3|A
+49. Which of the following is a base?|A. H2SO4|B. NaOH|C. HCl|D. HNO3|B
+50. The process by which a liquid turns into a solid is called|A. Melting|B. Freezing|C. Evaporation|D. Condensation|B
+51. Which of the following is a renewable energy source?|A. Coal|B. Petroleum|C. Solar|D. Natural gas|C
+52. The main component of limestone is|A. CaCO3|B. NaCl|C. KNO3|D. MgSO4|A
+53. Which of the following is a diatomic molecule?|A. O2|B. CO2|C. H2O|D. CH4|A
+54. The process of breaking down large molecules into smaller ones is called|A. Polymerization|B. Hydrolysis|C. Condensation|D. Neutralization|B
+55. Which of the following is a property of acids?|A. Bitter taste|B. Slippery feel|C. Sour taste|D. No reaction with metals|C
+56. The main product of the reaction between an acid and a base is|A. Salt|B. Water|C. Gas|D. Precipitate|A
+57. Which of the following is an example of an alloy?|A. Iron|B. Brass|C. Copper|D. Zinc|B
+58. The process by which a substance absorbs water from the atmosphere is called|A. Deliquescence|B. Efflorescence|C. Hygroscopy|D. Sublimation|A
+59. Which of the following is a reducing agent?|A. Oxygen|B. Hydrogen|C. Chlorine|D. Nitrogen|B
+60. The process of heating a liquid to form a gas and then cooling the gas to get back the liquid is called|A. Filtration|B. Distillation|C. Crystallization|D. Sublimation|B
+61. Which of the following is a property of non-metals?|A. Malleable|B. Ductile|C. Brittle|D. Conductive|C
+62. The chemical formula for methane is|A. CH4|B. C2H6|C. C3H8|D. C4H10|A
+63. Which of the following is a strong acid?|A. HCl|B. CH3COOH|C. H2CO3|D. HNO2|A
+64. The process by which green plants convert carbon dioxide and water into glucose is called|A. Respiration|B. Photosynthesis|C. Transpiration|D. Digestion|B
+65. Which of the following is a property of alkali metals?|A. Hard|B. Soft|C. Brittle|D. Non-reactive|B
+66. The main product of respiration in animals is|A. Oxygen|B. Carbon dioxide|C. Nitrogen|D. Methane|B
+67. Which of the following is a chemical property?|A. Boiling point|B. Melting point|C. Reactivity|D. Density|C
+68. The process by which a solution is heated to evaporate the solvent and then cooled to recover the solvent is called|A. Filtration|B. Distillation|C. Crystallization|D. Sublimation|B
+69. Which of the following is a property of ionic compounds?|A. Low melting point|B. High melting point|C. Poor conductor in solution|D. Insoluble in water|B
+70. The chemical formula for glucose is|A. C6H12O6|B. C12H22O11|C. CH3COOH|D. C2H5OH|A
+71. Which of the following is a property of covalent compounds?|A. Conduct electricity in solution|B. Low melting point|C. High melting point|D. Soluble in water|B
+72. The process by which a solid dissolves in a liquid to form a solution is called|A. Filtration|B. Dissolution|C. Crystallization|D. Sublimation|B
+73. Which of the following is a property of acids?|A. Turn blue litmus red|B. Turn red litmus blue|C. Bitter taste|D. Slippery feel|A
+74. The main product of the reaction between a metal and an acid is|A. Salt|B. Water|C. Gas|D. Precipitate|A
+75. Which of the following is a property of bases?|A. Sour taste|B. Turn red litmus blue|C. Turn blue litmus red|D. No reaction with acids|B
+76. The process by which a liquid changes to a solid is called|A. Melting|B. Freezing|C. Evaporation|D. Condensation|B
+77. Which of the following is a property of metals?|A. Brittle|B. Dull|C. Malleable|D. Non-conductive|C
+78. The chemical formula for calcium carbonate is|A. CaCO3|B. CaCl2|C. CaSO4|D. Ca(NO3)2|A
+79. Which of the following is a property of non-metals?|A. Malleable|B. Ductile|C. Brittle|D. Conductive|C
+80. The process by which a substance absorbs water from the atmosphere is called|A. Deliquescence|B. Efflorescence|C. Hygroscopy|D. Sublimation|A
+81. Which of the following is a reducing agent?|A. Oxygen|B. Hydrogen|C. Chlorine|D. Nitrogen|B
+82. The process of heating a liquid to form a gas and then cooling the gas to get back the liquid is called|A. Filtration|B. Distillation|C. Crystallization|D. Sublimation|B
+83. Which of the following is a property of non-metals?|A. Malleable|B. Ductile|C. Brittle|D. Conductive|C
+84. The chemical formula for methane is|A. CH4|B. C2H6|C. C3H8|D. C4H10|A
+85. Which of the following is a strong acid?|A. HCl|B. CH3COOH|C. H2CO3|D. HNO2|A
+86. The process by which green plants convert carbon dioxide and water into glucose is called|A. Respiration|B. Photosynthesis|C. Transpiration|D. Digestion|B
+87. Which of the following is a property of alkali metals?|A. Hard|B. Soft|C. Brittle|D. Non-reactive|B
+88. The main product of respiration in animals is|A. Oxygen|B. Carbon dioxide|C. Nitrogen|D. Methane|B
+89. Which of the following is a chemical property?|A. Boiling point|B. Melting point|C. Reactivity|D. Density|C
+90. The process by which a solution is heated to evaporate the solvent and then cooled to recover the solvent is called|A. Filtration|B. Distillation|C. Crystallization|D. Sublimation|B
+91. Which of the following is a property of ionic compounds?|A. Low melting point|B. High melting point|C. Poor conductor in solution|D. Insoluble in water|B
+92. The chemical formula for glucose is|A. C6H12O6|B. C12H22O11|C. CH3COOH|D. C2H5OH|A
+93. Which of the following is a property of covalent compounds?|A. Conduct electricity in solution|B. Low melting point|C. High melting point|D. Soluble in water|B
+94. The process by which a solid dissolves in a liquid to form a solution is called|A. Filtration|B. Dissolution|C. Crystallization|D. Sublimation|B
+95. Which of the following is a property of acids?|A. Turn blue litmus red|B. Turn red litmus blue|C. Bitter taste|D. Slippery feel|A
+96. The main product of the reaction between a metal and an acid is|A. Salt|B. Water|C. Gas|D. Precipitate|A
+97. Which of the following is a property of bases?|A. Sour taste|B. Turn red litmus blue|C. Turn blue litmus red|D. No reaction with acids|B
+98. The process by which a liquid changes to a solid is called|A. Melting|B. Freezing|C. Evaporation|D. Condensation|B
+99. Which of the following is a property of metals?|A. Brittle|B. Dull|C. Malleable|D. Non-conductive|C
+100. The chemical formula for calcium carbonate is|A. CaCO3|B. CaCl2|C. CaSO4|D. Ca(NO3)2|A
+
