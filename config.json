@@ -1,0 +1,6 @@
+{
+ "smtp_server": "smtp.gmail.com",
+  "smtp_port": 587,
+  "SENDER_EMAIL": "codis1723@gmail.com",
+  "SENDER_PASSWORD": "hkdzlilwcqbbvmjo"
+}

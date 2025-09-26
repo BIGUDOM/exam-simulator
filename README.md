@@ -1,4 +1,135 @@
-📘 Exam Simulator
+# 🎓 Exam Simulator
+
+A Python-based Exam Simulator CLI application with student registration, login, exam timer, PDF slip generation, and email notifications.
+
+---
+
+## ✨ Features
+- 🔑 **User Registration & Login**
+  - Auto-generates unique **Username** & **Registration Number**
+  - Validates **email** and enforces strong **passwords**
+  - Stores account details securely (hashed passwords)
+
+- 📄 **Registration Slip**
+  - Generates a styled PDF slip with student details
+  - Includes optional **logo branding**
+  - Automatically emailed to the student after registration
+
+- ⏳ **Exam Functionality**
+  - Department-based exam durations (`SCIENCE`, `ART`, `COMMERCIAL`)
+  - Countdown timer runs in the background
+  - Questions are loaded once the exam starts
+
+- 📊 **Result Management**
+  - Check saved results after finishing the exam
+  - Organized by department and username folders
+
+- 🛠 **Account Management**
+  - Change student name after registration
+  - Prevents duplicate usernames, emails, or registration numbers
+
+---
+
+## 📂 Project Structure
+.
+├── results/ # Stores exam results
+├── users/ # Stores user accounts
+├── logo.png # Logo for registration PDF (optional)
+├── main.py # Main program entry point
+├── utils.py # Helper functions (validation, PDF, email, etc.)
+├── requirements.txt # Python dependencies
+└── README.md # Project documentation
+
+
+---
+
+## 🚀 Getting Started
+
+### 1. Clone Repository
+```bash
+git clone https://github.com/your-username/exam-simulator.git
+cd exam-simulator
+```
+
+### 2. Install Dependecies
+Make sure you have Python 3.9+ installed.
+Install required libraries:
+``` bash 
+pip install -r requirements.txt
+```
+
+### 3. Configure Email
+
+Edit your email settings inside utils.py:
+```python
+SMTP_SERVER = "smtp.gmail.com"
+SMTP_PORT = 587
+SENDER_EMAIL = "your_email@gmail.com"
+SENDER_PASSWORD = "your_app_password"
+```
+
+### 4. Run the App
+``` bash
+python main.py
+```
+
+---
+
+# #🎮 Usage
+**When the app starts, you’ll see the main menu:**
+1. Register
+2. Login
+3. Exit
+
+--
+
+**After logging in:**
+--- Logged In Menu ---
+1. Take Exam
+2. Check Result
+3. Change Name
+4. Logout
+
+
+
+- Take Exam → Starts countdown timer & loads questions
+
+- Check Result → View your past exam results
+
+- Change Name → Edit your registered name
+
+- Logout → Return to main menu
+
+---
+
+## 📸 Sample Registration Slip (PDF)
+
+The system generates a Registration Slip like this:
+
+Name: John Doe
+Username: 2025245JD
+Reg.No: 20251156789AB
+Department: SCIENCE
+Age: 17
+Email: john.doe@exa
+
+---
+
+## 👨‍💻 Author
+
+
+Udom Blessing is a seasoned Developer with focus on backend engineering.... You can look him up or contact him via [Github](https://github.com/BIGUDOM) or [Instagram](https://www.instagram.com/udomblessing481?igsh=dnUxNjE2dThrZGk3&utm_source=qr)
+
+
+In order to contribute or to report any bug, kindly open a descriptive issue about the bug or contribution.
+
+Adding an example of the bug or the intended feature or fix, is a good way to create an issue.
+
+## License
+MIT
+
+
+<!-- 📘 Exam Simulator
 
 An interactive Python-based exam system that allows students to take exams by department, get timed tests, save results, and check them later.
 
@@ -138,17 +269,4 @@ TOTAL SCORE: 81/100 (81.00%)
 
 👨‍💻 Author
 
-Built with ❤️ by Udom Blessing.
-
-Udom Blessing is a seasoned Developer with focus on backend engineering.... You can look him up or contact him via [Github](https://github.com/BIGUDOM) or [Instagram](https://www.instagram.com/udomblessing481?igsh=dnUxNjE2dThrZGk3&utm_source=qr)
-
-
-In order to contribute or to report any bug, kindly open a descriptive issue about the bug or contribution.
-
-Adding an example of the bug or the intended feature or fix, is a good way to create an issue.
-
-## License
-MIT
-
-
-
+Built with ❤️ by Udom Blessing. -->
